@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		04DC068F278D803F00C10AE0 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		04DC0690278D8D1F00C10AE0 /* Dockerfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Dockerfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,6 +16,7 @@
 			isa = PBXGroup;
 			children = (
 				04DC068F278D803F00C10AE0 /* main.py */,
+				04DC0690278D8D1F00C10AE0 /* Dockerfile */,
 			);
 			sourceTree = "<group>";
 		};
